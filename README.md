@@ -8,7 +8,7 @@ Suchow, J. W., & Alvarez, G. A. (in press). Silencing the awareness of change.
 
 ## (2017)
 
-Cohen, M.A., Alvarez, G.A., Nakayama, K., & Konkle, T. (2017). Visual search for object categories can be predicted across all of high-level visual cortex Proceedings of the National Academy of Sciences, USA, 117 388-402. doi:10.1152/jn.00569.2016 [[pdf]](/pdfs/Cohen-etal-2017-JNeuroPhys.pdf){:target="\_blank" rel="noopener"}
+Cohen, M.A., Alvarez, G.A., Nakayama, K., & Konkle, T. (2017). Visual search for object categories can be predicted across all of high-level visual cortex Proceedings of the National Academy of Sciences, USA, 117 388-402. doi:10.1152/jn.00569.2016 [[pdf]](/pdfs/Cohen-etal-2017-JNeuroPhys.pdf){:target='_blank' rel="noopener"}
 
 ## (2016)
 
