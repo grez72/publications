@@ -1,6 +1,16 @@
 # publications
 
-## (in press)
+## latest
+
+De Freitas, J., Anthony, S. E., Censi, A., & Alvarez, G. A. (2020). Doubting driverless dilemmas. Perspectives on Psychological Science, 15(5), 1284-1288. doi: 10.1177/1745691620922201. [[pdf]](/pdfs/DeFreitas-2020-Perspectives-Doubting.pdf)
+
+Strong, R. W., & Alvarez, G. A. (2020). Hemifield-specific control of spatial attention and working memory: Evidence from hemifield crossover costs. Journal of Vision, 20(8), 24-24. [[pdf]](/pdfs/Strong-Alvarez-2020-JOV-Crossover.pdf)
+
+## (2019)
+
+Störmer, V.S., Cohen, M.A. & Alvarez, G.A. (2019). Tuning attention to object categories: Spatially global effects of attention to faces in visual processing. Journal of Cognitive Neuroscience, 31(7), 937-947.
+
+Brady, T. F., Alvarez, G. A. & Störmer, V.S. (2019). The role of meaning in visual memory: Face-selective brain activity predicts memory for ambiguous face stimuli. Journal of Neuroscience, 39(6), 1100-1108.
 
 ## (2018)
 
@@ -136,13 +146,13 @@ Shim, W., Alvarez, G. A., & Jiang, Y. (2008). Spatial separation between targets
 
 ## (2007)
 
-Alvarez, G. A., & Franconeri, S. L. (2007). How many objects can you attentively track?: Evidence for a resource-limited tracking mechanism. Journal of Vision, 7(13), 1-10. doi:10.1167/7.13.14 [[pdf]](/pdfs/Alvarez-Franconeri-2007-JOV.pdf)  
+Alvarez, G. A., & Franconeri, S. L. (2007). How many objects can you attentively track?: Evidence for a resource-limited tracking mechanism. Journal of Vision, 7(13), 1-10. doi:10.1167/7.13.14 [[pdf]](/pdfs/Alvarez-Franconeri-2007-JOV.pdf)
 
 Alvarez, G. A., & Oliva, A. (2007). The role of global layout in visual short-term memory. Visual Cognition, 15(1), 70-73. doi: [[pdf]](/pdfs/Alvarez-Oliva-2007-VisCog.pdf)
 
-Carlson, T. A., Alvarez, G. A., & Cavanagh, P. (2007). Quadrantic deficit reveals anatomical constraints in attentional tracking. Proceedings of the National Academy of Sciences, 104(33), 13496-13500. doi:10.1073/pnas.0702685104  [[pdf]](/pdfs/Carlson-etal-2007-PNAS.pdf)
+Carlson, T. A., Alvarez, G. A., & Cavanagh, P. (2007). Quadrantic deficit reveals anatomical constraints in attentional tracking. Proceedings of the National Academy of Sciences, 104(33), 13496-13500. doi:10.1073/pnas.0702685104 [[pdf]](/pdfs/Carlson-etal-2007-PNAS.pdf)
 
-Franconeri, S., Alvarez, G. A., & Enns, J. (2007). How many locations can be selected at once? Journal of Experimental Psychology: Human Perception and Performance, 33(5), 1003-1012. doi:10.1037/0096-1523.33.5.1003  [[pdf]](/pdfs/Franconeri-etal-2007-JEPHPP.pdf)
+Franconeri, S., Alvarez, G. A., & Enns, J. (2007). How many locations can be selected at once? Journal of Experimental Psychology: Human Perception and Performance, 33(5), 1003-1012. doi:10.1037/0096-1523.33.5.1003 [[pdf]](/pdfs/Franconeri-etal-2007-JEPHPP.pdf)
 
 Horowitz, T. S., Klieger, S. B., Fencsik, D. E., Yang, K. K., Alvarez, G. A., & Wolfe, J. M. (2007). Tracking unique objects. Perception & Psychophysics, 69(2), 172-184. doi:10.3758/BF03193740 [[pdf]](/pdfs/Horowitz-etal-2007-PandP.pdf)
 
