@@ -24,6 +24,8 @@ Brady, T. F., Shafer-Skelton, A., and Alvarez, G.A. (2017). Global ensemble text
 
 Cohen, M.A., Alvarez, G.A., Nakayama, K., & Konkle, T. (2017). Visual search for object categories can be predicted across all of high-level visual cortex Proceedings of the National Academy of Sciences, USA, 117 388-402. doi:10.1152/jn.00569.2016 [[pdf]](/pdfs/Cohen-etal-2017-JNeuroPhys.pdf)
 
+Long, B.L., Störmer, V.S., & Alvarez, G.A. (2017). Mid-level perceptual features contain early cues to animacy. Journal of Vision, 17(6), 1-20. [[pdf]](/pdfs/LongStormerAlvarez-2017-JOV-MidLevel.pdf)
+
 Strong, R. W., & Alvarez, G. A. (2017). Training enhances attentional expertise, but not attentional capacity: Evidence from content-specific training benefits. Journal of Vision, 17(4), 1-11. [[pdf]](/pdfs/StrongAlvarez-2017-JOV.pdf)
 
 Suchow, J. W. & Alvarez, G. A. (2017). Silencing the awareness of change. The Oxford Compendium of Visual Illusions. Oxford: Oxford University Press
@@ -151,6 +153,8 @@ Shim, W., Alvarez, G. A., & Jiang, Y. (2008). Spatial separation between targets
 ## (2007)
 
 Alvarez, G. A., & Franconeri, S. L. (2007). How many objects can you attentively track?: Evidence for a resource-limited tracking mechanism. Journal of Vision, 7(13), 1-10. doi:10.1167/7.13.14 [[pdf]](/pdfs/Alvarez-Franconeri-2007-JOV.pdf)
+
+Alvarez, G. A., Konkle, T., & Oliva, A. (2007). Searching in dynamic displays: Effects of configural predictability and spatio-temporal continuity. Journal of Vision, 7(14), 1-12. http://journalofvision.org/7/14/12/, doi:10.1167/7.14.12. [[pdf]](/pdfs/Alvarez-etal-2007-JOV.pdf)
 
 Alvarez, G. A., & Oliva, A. (2007). The role of global layout in visual short-term memory. Visual Cognition, 15(1), 70-73. doi: [[pdf]](/pdfs/Alvarez-Oliva-2007-VisCog.pdf)
 
