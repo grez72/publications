@@ -24,6 +24,8 @@ Brady, T. F., Shafer-Skelton, A., and Alvarez, G.A. (2017). Global ensemble text
 
 Cohen, M.A., Alvarez, G.A., Nakayama, K., & Konkle, T. (2017). Visual search for object categories can be predicted across all of high-level visual cortex Proceedings of the National Academy of Sciences, USA, 117 388-402. doi:10.1152/jn.00569.2016 [[pdf]](/pdfs/Cohen-etal-2017-JNeuroPhys.pdf)
 
+Strong, R. W., & Alvarez, G. A. (2017). Training enhances attentional expertise, but not attentional capacity: Evidence from content-specific training benefits. Journal of Vision, 17(4), 1-11. [[pdf]](/pdfs/StrongAlvarez-2017-JOV.pdf)
+
 Suchow, J. W. & Alvarez, G. A. (2017). Silencing the awareness of change. The Oxford Compendium of Visual Illusions. Oxford: Oxford University Press
 
 ## (2016)
