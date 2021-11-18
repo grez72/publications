@@ -120,7 +120,7 @@ Shim, W., Vickery, T., Alvarez, G. A., Jiang, Y. (2010). The number of attention
 
 Alvarez, G. A., & Oliva, A. (2009). Spatial ensemble statistics are efficient codes that can be represented with reduced attention. Proceedings of the National Academy of Sciences, USA, 106(18), 7345-7350. doi:10.1073/pnas.0808981106 [[pdf]](/pdfs/Alvarez-Oliva-2009-PNAS.pdf)
 
-Alvarez, G. A., & Thompson, T. W. (2009). Overwriting and rebinding: Why feature-switch detection tasks underestimate the binding capacity of visual working memory. Visual Cognition, 17((1-2)), 141-159. doi:10.1080/13506280802265496 [[pdf]](/pdfs/Battelli_etal-2009-JCN.pdf)
+Alvarez, G. A., & Thompson, T. W. (2009). Overwriting and rebinding: Why feature-switch detection tasks underestimate the binding capacity of visual working memory. Visual Cognition, 17((1-2)), 141-159. doi:10.1080/13506280802265496 [[pdf]](/pdfs/Alvarez-Thompson-2009-VisCog-Corr.pdf)
 
 Battelli, L., Alvarez, G. A., Carlson, T. A., & Pascual-Leone, A. (2009). The role of the parietal lobe in visual extinction studied with transcranial magnetic stimulation. Journal of Cognitive Neuroscience , 21(10), 1946-1955. doi:10.1162/jocn.2008.21149 [[pdf]](/pdfs/)
 
