@@ -108,9 +108,9 @@ Wolfe, J. M., Alvarez, G. A., Rosenholtz, R., Kuzmova, Y. I., Sherman, A. M. (20
 
 ## (2010)
 
-Carlson, T. C., Alvarez, G. A., Wu, D., Verstraten, F. (2010). Rapid assimilation of external objects into the body schema. Psychological Science , 21(7), 1000-1005. doi:10.1177/0956797610371962 [[pdf]](/pdfs/)
+Carlson, T. C., Alvarez, G. A., Wu, D., Verstraten, F. (2010). Rapid assimilation of external objects into the body schema. Psychological Science , 21(7), 1000-1005. doi:10.1177/0956797610371962 [[pdf]](/pdfs/Carlson-etal-2010.pdf)
 
-Konkle, T., Brady, T. F., Alvarez, G. A., & Oliva, A. (2010). Scene memory is more detailed than you think: the role of categories in visual long-term memory. Psychological Science , 21(11), 1551-1556 . doi:10.1177/0956797610385359 [[pdf]](/pdfs/)
+Konkle, T., Brady, T. F., Alvarez, G. A., & Oliva, A. (2010). Scene memory is more detailed than you think: the role of categories in visual long-term memory. Psychological Science , 21(11), 1551-1556 . doi:10.1177/0956797610385359 [[pdf]](/pdfs/Konkle-etal-2010-PsycSci.pdf)
 
 Konkle, T., Brady, T. F., Alvarez, G. A., & Oliva, A. (2010). Conceptual distinctiveness supports detailed visual long-term memory for real-world objects. Journal of Experimental Psychology: General , 139(3), 558-578. doi:10.1037/a0019165 [[pdf]](/pdfs/KonkleBradyAlvarezOliva2010.pdf)
 
