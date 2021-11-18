@@ -12,9 +12,9 @@ Störmer, V.S., Cohen, M.A. & Alvarez, G.A. (2019). Tuning attention to object c
 
 Brady, T. F., Alvarez, G. A. & Störmer, V.S. (2019). The role of meaning in visual memory: Face-selective brain activity predicts memory for ambiguous face stimuli. Journal of Neuroscience, 39(6), 1100-1108. [[pdf]](/pdfs/BradyAlvarezStormer-2019-JNeuro-Meaning.pdf)
 
-## (2018)
+Brady, T. F., Alvarez, G., and Störmer, V. (2019). The role of meaning in visual memory: Face-selective brain activity predicts memory for ambiguous face stimuli. Journal of Neuroscience. [[pdf]](/pdfs/BradyAlvarezStormer-2019-JNeuro-Meaning.pdf)
 
-Brady, T. F., Alvarez, G., and Störmer, V. (in press). The role of meaning in visual memory: Face-selective brain activity predicts memory for ambiguous face stimuli. Journal of Neuroscience. [[pdf]](/pdfs/Brady-Stormer-Alvarez-2017.pdf)
+## (2018)
 
 De Freitas, J., & Alvarez, G. A. (2018). Your visual system provides all the information you need to make moral judgments about generic visual events. Cognition, 178, 133–146. [[pdf]](/pdfs/DeFreitas-Alvarez-2018-Cognition.pdf)
 
