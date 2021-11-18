@@ -10,7 +10,7 @@ Strong, R. W., & Alvarez, G. A. (2020). Hemifield-specific control of spatial at
 
 Störmer, V.S., Cohen, M.A. & Alvarez, G.A. (2019). Tuning attention to object categories: Spatially global effects of attention to faces in visual processing. Journal of Cognitive Neuroscience, 31(7), 937-947.
 
-Brady, T. F., Alvarez, G. A. & Störmer, V.S. (2019). The role of meaning in visual memory: Face-selective brain activity predicts memory for ambiguous face stimuli. Journal of Neuroscience, 39(6), 1100-1108.
+Brady, T. F., Alvarez, G. A. & Störmer, V.S. (2019). The role of meaning in visual memory: Face-selective brain activity predicts memory for ambiguous face stimuli. Journal of Neuroscience, 39(6), 1100-1108. [[pdf]](/pdfs/BradyAlvarezStormer-2019-JNeuro-Meaning.pdf)
 
 ## (2018)
 
