@@ -112,7 +112,7 @@ Carlson, T. C., Alvarez, G. A., Wu, D., Verstraten, F. (2010). Rapid assimilatio
 
 Konkle, T., Brady, T. F., Alvarez, G. A., & Oliva, A. (2010). Scene memory is more detailed than you think: the role of categories in visual long-term memory. Psychological Science , 21(11), 1551-1556 . doi:10.1177/0956797610385359 [[pdf]](/pdfs/)
 
-Konkle, T., Brady, T. F., Alvarez, G. A., & Oliva, A. (2010). Conceptual distinctiveness supports detailed visual long-term memory for real-world objects. Journal of Experimental Psychology: General , 139(3), 558-578. doi:10.1037/a0019165 [[pdf]](/pdfs/KonkleBradyAlvarezOliva2010)
+Konkle, T., Brady, T. F., Alvarez, G. A., & Oliva, A. (2010). Conceptual distinctiveness supports detailed visual long-term memory for real-world objects. Journal of Experimental Psychology: General , 139(3), 558-578. doi:10.1037/a0019165 [[pdf]](/pdfs/KonkleBradyAlvarezOliva2010.pdf)
 
 Shim, W., Vickery, T., Alvarez, G. A., Jiang, Y. (2010). The number of attentional foci and their precision are dissociated in the posterior parietal cortex. Cerebral Cortex , 20(6), 1341-1349. doi:10.1093/cercor/bhp197 [[pdf]](/pdfs/Shim_etal-2010.pdf)
 
