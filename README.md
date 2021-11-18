@@ -60,9 +60,11 @@ Cohen, M., Konkle, T., Nakayama, K., Alvarez, G. A. (2014). Processing multiple 
 
 Plow, E. B., Cattaneo, Z., Carlson, T. A., Alvarez, G. A., Pascual-Leone, A., & Battelli, L. (2014). The compensatory dynamic of inter-hemispheric interactions in visuospatial attention revealed using rTMS and fMRI Frontiers in Human Neuroscience, 8 1-12. doi:10.3389/fnhum.2014.00226 [[pdf]](/pdfs/Plow_etal-2014-Frontiers.pdf)
 
-Störmer, V. S. & Alvarez, G. A. (2014). Feature-based attention elicits surround suppression in feature space Current Biology, 24(17), 1985-1988. doi:10.1016/j.cub.2014.07.030 [[pdf]](/pdfs/StörmerAlvarez-2014-CurrBio-FeatureSurround.pdf)
+Störmer, V. S. & Alvarez, G. A. (2014). Feature-based attention elicits surround suppression in feature space Current Biology, 24(17), 1985-1988. doi:10.1016/j.cub.2014.07.030 [[pdf]](/pdfs/St%C3%B6rmerAlvarez-2014-CurrBio-FeatureSurround.pdf)
 
-Störmer, V. S. Alvarez, G. A., & Cavanagh, P. (2014). Within-hemifield competition in early visual areas limits the ability to track multiple objects with attention The Journal of Neuroscience, 34(35), 11526 –11533. doi:10.1523/JNEUROSCI.0980-14.2014 [[pdf]](/pdfs/Störmer-2014-JNeuro-Hemifields.pdf)
+Störmer, V. S. Alvarez, G. A., & Cavanagh, P. (2014). Within-hemifield competition in early visual areas limits the ability to track multiple objects with attention The Journal of Neuroscience, 34(35), 11526 –11533. doi:10.1523/JNEUROSCI.0980-14.2014 [[pdf]](/pdfs/St%C3%B6rmer-2014-JNeuro-Hemifields.pdf)
+
+
 
 Suchow, J., Fougnie, D., Brady, T., & Alvarez, G. (2014). Terms of the debate on the format and structure of visual memory Attention, Perception, & Psychophysics, 76(7), 2071-2079. doi:10.3758/s13414-014-0690-7 [[pdf]](/pdfs/Suchow-etal-2014-APP-TermsOfDebate-Online.pdf)
 
