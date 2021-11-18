@@ -154,6 +154,8 @@ Shim, W., Alvarez, G. A., & Jiang, Y. (2008). Spatial separation between targets
 
 Alvarez, G. A., & Franconeri, S. L. (2007). How many objects can you attentively track?: Evidence for a resource-limited tracking mechanism. Journal of Vision, 7(13), 1-10. doi:10.1167/7.13.14 [[pdf]](/pdfs/Alvarez-Franconeri-2007-JOV.pdf)
 
+Alvarez, G. A., Konkle, T., & Oliva, A. (2007). Searching in dynamic displays: Effects of configural predictability and spatio-temporal continuity. Journal of Vision, 7(14), 1-12. http://journalofvision.org/7/14/12/, doi:10.1167/7.14.12. [[pdf]](/pdfs/Alvarez-etal-2007-JOV.pdf)
+
 Alvarez, G. A., & Oliva, A. (2007). The role of global layout in visual short-term memory. Visual Cognition, 15(1), 70-73. doi: [[pdf]](/pdfs/Alvarez-Oliva-2007-VisCog.pdf)
 
 Carlson, T. A., Alvarez, G. A., & Cavanagh, P. (2007). Quadrantic deficit reveals anatomical constraints in attentional tracking. Proceedings of the National Academy of Sciences, 104(33), 13496-13500. doi:10.1073/pnas.0702685104 [[pdf]](/pdfs/Carlson-etal-2007-PNAS.pdf)
