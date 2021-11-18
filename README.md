@@ -6,13 +6,13 @@ De Freitas, J., Anthony, S. E., Censi, A., & Alvarez, G. A. (2020). Doubting dri
 
 Strong, R. W., & Alvarez, G. A. (2020). Hemifield-specific control of spatial attention and working memory: Evidence from hemifield crossover costs. Journal of Vision, 20(8), 24-24. [[pdf]](/pdfs/Strong-Alvarez-2020-JOV-Crossover.pdf)
 
+Forman, I. R., Chen, Y. -C., Scholl, B. J., & Alvarez, G. A. (2021). The center cannot hold: Variations of frame width help to explain the 'inward bias' in aesthetic preferences. Attention, Perception, & Psychophysics, 83, 2151–2158. [[pdf]](/pdfs/Forman_Chen_etal_2021_AP&P_TheCenterCannotHold.pdf)
+
 ## (2019)
 
 Störmer, V.S., Cohen, M.A. & Alvarez, G.A. (2019). Tuning attention to object categories: Spatially global effects of attention to faces in visual processing. Journal of Cognitive Neuroscience, 31(7), 937-947. [[pdf]](/pdfs/StormerCohenAlvarez-2019-JCN-Tuning.pdf)
 
 Brady, T. F., Alvarez, G. A. & Störmer, V.S. (2019). The role of meaning in visual memory: Face-selective brain activity predicts memory for ambiguous face stimuli. Journal of Neuroscience, 39(6), 1100-1108. [[pdf]](/pdfs/BradyAlvarezStormer-2019-JNeuro-Meaning.pdf)
-
-Brady, T. F., Alvarez, G., and Störmer, V. (2019). The role of meaning in visual memory: Face-selective brain activity predicts memory for ambiguous face stimuli. Journal of Neuroscience. [[pdf]](/pdfs/BradyAlvarezStormer-2019-JNeuro-Meaning.pdf)
 
 ## (2018)
 
