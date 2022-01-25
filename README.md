@@ -2,7 +2,7 @@
 
 ## latest
 
-Konkle, T., Alvarez, G.A. A self-supervised domain-general learning framework for human ventral stream representation. Nat Commun 13, 491 (2022). doi: https://doi.org/10.1038/s41467-022-28091-4 [[pdf]](/pdfs/Konkle_et_al-2022-Nature_Communications.pdf)
+Konkle, T., Alvarez, G.A. A self-supervised domain-general learning framework for human ventral stream representation. Nat Commun 13, 491 (2022). doi: https://doi.org/10.1038/s41467-022-28091-4. [[pdf]](/pdfs/Konkle_et_al-2022-Nature_Communications.pdf)
 
 De Freitas, J., Anthony, S. E., Censi, A., & Alvarez, G. A. (2020). Doubting driverless dilemmas. Perspectives on Psychological Science, 15(5), 1284-1288. doi: 10.1177/1745691620922201. [[pdf]](/pdfs/DeFreitas-2020-Perspectives-Doubting.pdf)
 
