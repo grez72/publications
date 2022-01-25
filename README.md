@@ -2,6 +2,8 @@
 
 ## latest
 
+Konkle, T., Alvarez, G.A. A self-supervised domain-general learning framework for human ventral stream representation. Nat Commun 13, 491 (2022). doi: https://doi.org/10.1038/s41467-022-28091-4 [[pdf]](/pdfs/Konkle_et_al-2022-Nature_Communications.pdf)
+
 De Freitas, J., Anthony, S. E., Censi, A., & Alvarez, G. A. (2020). Doubting driverless dilemmas. Perspectives on Psychological Science, 15(5), 1284-1288. doi: 10.1177/1745691620922201. [[pdf]](/pdfs/DeFreitas-2020-Perspectives-Doubting.pdf)
 
 Strong, R. W., & Alvarez, G. A. (2020). Hemifield-specific control of spatial attention and working memory: Evidence from hemifield crossover costs. Journal of Vision, 20(8), 24-24. [[pdf]](/pdfs/Strong-Alvarez-2020-JOV-Crossover.pdf)
@@ -67,8 +69,6 @@ Plow, E. B., Cattaneo, Z., Carlson, T. A., Alvarez, G. A., Pascual-Leone, A., & 
 Störmer, V. S. & Alvarez, G. A. (2014). Feature-based attention elicits surround suppression in feature space Current Biology, 24(17), 1985-1988. doi:10.1016/j.cub.2014.07.030 [[pdf]](/pdfs/St%C3%B6rmerAlvarez-2014-CurrBio-FeatureSurround.pdf)
 
 Störmer, V. S. Alvarez, G. A., & Cavanagh, P. (2014). Within-hemifield competition in early visual areas limits the ability to track multiple objects with attention The Journal of Neuroscience, 34(35), 11526 –11533. doi:10.1523/JNEUROSCI.0980-14.2014 [[pdf]](/pdfs/St%C3%B6rmer-2014-JNeuro-Hemifields.pdf)
-
-
 
 Suchow, J., Fougnie, D., Brady, T., & Alvarez, G. (2014). Terms of the debate on the format and structure of visual memory Attention, Perception, & Psychophysics, 76(7), 2071-2079. doi:10.3758/s13414-014-0690-7 [[pdf]](/pdfs/Suchow-etal-2014-APP-TermsOfDebate-Online.pdf)
 
